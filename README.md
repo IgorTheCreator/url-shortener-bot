@@ -1,2 +1,2 @@
-# url-shortener-bot
-Simple url shortener telegram bot
+# Description
+Simple URL shortener telegram bot using Bitly API written on JavaScript
